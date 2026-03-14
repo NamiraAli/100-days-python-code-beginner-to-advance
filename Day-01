@@ -1,0 +1,5 @@
+#BAND NAME GENERATOR D-1
+print("Lets Name Your Band \n")
+city=input("ENTER THE NAME OF YOUR CITY :\n")
+pet=input("ENTER THE NAME OF YOUR PET :\n")
+print("NAME FOR YOUR BAND IS " + city + " " + pet + "!!")
