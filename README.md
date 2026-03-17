@@ -28,7 +28,6 @@ This repository contains all the exercises, mini projects, and practice programs
 ✔ Daily Python exercises
 ✔ Mini Python projects
 ✔ Coding practice problems
-✔ Notes on Python concepts learned
 
 ---
 
