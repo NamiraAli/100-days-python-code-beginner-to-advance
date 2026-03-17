@@ -1,0 +1,9 @@
+print("WELCOME TO THE TIP CALCULATOR")
+total_bill=float(input("ENTER YOUR BILL AMOUNT = RS "))
+tip=int(input("ENTER YOUR TIP % = "))
+people=int(input("ENTER THE NUMBER OF SPLIT = "))
+cal_tip=(tip/100*total_bill)
+cal_bill=(cal_tip+total_bill)
+total=cal_bill/people
+split=round(total,2)
+print(f"YOUR BILL AMOUNT FOR {people} PEOPLE IS RS {split}")
