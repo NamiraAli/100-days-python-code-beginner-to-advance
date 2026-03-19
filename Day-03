@@ -1,0 +1,76 @@
+print(r'''
+*******************************************************************************
+          |                   |                  |                     |
+ _________|________________.=""_;=.______________|_____________________|_______
+|                   |  ,-"_,=""     `"=.|                  |
+|___________________|__"=._o`"-._        `"=.______________|___________________
+          |                `"=._o`"=._      _`"=._                     |
+ _________|_____________________:=._o "=._."_.-="'"=.__________________|_______
+|                   |    __.--" , ; `"=._o." ,-"""-._ ".   |
+|___________________|_._"  ,. .` ` `` ,  `"-._"-._   ". '__|___________________
+          |           |o`"=._` , "` `; .". ,  "-._"-._; ;              |
+ _________|___________| ;`-.o`"=._; ." ` '`."\ ` . "-._ /_______________|_______
+|                   | |o ;    `"-.o`"=._``  '` " ,__.--o;   |
+|___________________|_| ;     (NA) `-.o `"=.`_.--"_o.-; ;___|___________________
+____/______/______/___|o;._    "      `".o|o_.--"    ;o;____/______/______/____
+/______/______/______/_"=._o--._        ; | ;        ; ;/______/______/______/_
+____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____
+/______/______/______/______/____"=._o._; | ;_.--"o.--"_/______/______/______/_
+____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
+/______/______/______/______/______/______/______/______/______/______/_____ /
+*******************************************************************************
+''')
+print("Welcome to Treasure Island.")
+print("Your mission is to find the treasure.")
+entry=input("TO START THE GAME TYPE 'start' \n ")
+if entry == 'start':
+    print("WELCOME ")
+    path=input("YOU HAVE 2 OPTION CHOOSE LEFT PATH OR RIGHT PATH TYPE::'left' OR 'right'  \n")
+    if path == 'left':
+        print(f"YOU CHOOSE {path} ")
+        entry1=input("YOU CAN NOW GO TO A MOUNTAIN OR LAKE CHOOSE ONE TYPE :: 'mountain' FOR MOUNTAIN AND 'lake' FOR LAKE  \n")
+        if entry1 == 'm':
+            print("YOU GOT ATTACKED BY THE MOUNTAIN BEAR !! GAME OVER")
+        else:
+            print("YOU ARE NOW AT THE LAKE SHORE")
+            entry2=input("WILL YOU SWIN OR RENT A BOAT TYPE :: 'swim' OR 'boat' \n")
+            if entry2=='boat':
+                print("YOU SUCCESSFULLY CROSSED THE LAKE ")
+                print("NOW YOU HAVE 3 DOOR")
+                print('''
+                DOOR 1 HAS FIRE 
+                DOOR 2 HAS 4 DAYS HUNGRY LION
+                DOOR 3 HAS TOXIC GAS''')
+                entry3=input("TYPE 'door1' OR 'door2' OR  'door3' TO ENTER  \n")
+                if entry3=='door1':
+                    print("YOU DIED DUE TO FIRE")
+                elif entry3=='door2':
+                    print("YAY!!! YOU WON THE LION WAS DEAD DUE TO HUNGER FOR 4 DAYS \n SMART MOVE !!")
+                else:
+                    print("YOU DIED DUE TO TOXIC GAS")
+            else:
+                print("YOU DIED !! CROCODILE ATE YOU ")
+    elif path == 'right':
+        print(f"YOU CHOOSE {path} YOU ARE NOW IN THE FANTASY LAND ")
+        part2=input("WOULD YOU LIKE TO MOVE FORWARD TYPE 'y' OR 'n' \n")
+        if part2=='y':
+            print(f"WELCOME TO THE FANTASY LAND  ")
+            fan1=input("WOULD YOU LIKE TO RIDE A DRAGON OR UNICORN TYPE 'dragon' OR 'unicorn' \n ")
+            if fan1=='unicorn':
+                print("GOOD CHOICE YOU ENTER FAIRY LAND")
+                fan2=input("GET A HOUSE OR GET A WEAPON TYPE 'house' OR 'weapon' \n")
+                if fan2=='house':
+                    print("YOU LOOSE YOU COULD NOT SAVE YOURSELF FROM THE ENEMIES")
+                else:
+                    print("YOU WON YOU SAVE YOURSELF FROM THE ENEMIES USING THE POWERFUL WEAPON YAY!!")
+                    print("CONGRATULATION !!")
+            else:
+                print("YOU LOOSE DRAGON ATE YOU !! ")
+        else:
+            print("NO WORRIES you can EXIT HERE BYE!!")
+    else:
+        print("enter valid statement you exit here ")
+else:
+    print("END GAME")
+
+
