@@ -1,0 +1,61 @@
+rock = '''
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+'''
+
+paper = '''
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+'''
+
+scissors = '''
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+'''
+print("WELCOME TO THE GAME OF ROCK PAPER SCISSORS")
+userval=int(input("ENTER 0 FOR ROCK 1 FOR PAPER AND 2 FOR SCISSORS \n"))
+
+if userval==0:
+    print(f"YOU CHOOSE ROCK \n ",rock)
+elif userval==1:
+    print(f"YOU CHOOSE PAPER \n ",paper)
+else:
+    print(f"YOU CHOOSE SCISSORS \n ",scissors)
+import random
+value=random.randint(0,2)
+
+if value==0:
+    print(f"COMPUTER CHOOSE ROCK \n",rock)
+elif value==1:
+    print(f"COMPUTER CHOOSE PAPER \n",paper)
+else:
+    print(f"COMPUTER CHOOSE SCISSORS \n",scissors)
+
+if userval==value:
+    print("ITS A DRAW")
+elif userval==0 and value==1:
+    print("COMPUTER WON")
+elif userval==1 and value==0:
+    print("YOU WON")
+elif userval==0 and value==2:
+    print("YOU WON")
+elif userval==2 and value==0:
+    print("COMPUTER WON")
+elif userval==1 and value==2:
+    print("COMPUTER WON")
+elif userval==2 and value==1:
+    print("YOU WON")
+else:
+    print("enter valid value")
