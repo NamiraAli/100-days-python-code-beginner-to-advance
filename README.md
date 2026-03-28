@@ -40,7 +40,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 3 | Treasure Island Game | Conditional Statements |
 | Day 4 | Rock Paper Scissors  | Random Module          |
 | Day 5 | Password Generator   | Loops                  |
-
+| Day 6 | Reeborg's World Maze | While Loops            |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -54,6 +54,8 @@ This repository contains all the exercises, mini projects, and practice programs
 ├── Day02_Tip_Calculator
 ├── Day03_Treasure_Island
 ├── Day04_Rock_Paper_Scissors
+├── Day05_Password_Generator
+├── Day06_Reeborg's_World_Maze_Problem
 └── README.md
 ```
 
