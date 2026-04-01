@@ -43,7 +43,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 6 | Reeborg's World Maze | While Loops            |
 | Day 7 | Hangman Game         | Function , loops       |
 | Day 8 | Cesar Cipher         | function with parameter|
-| Day 9 |                      |                        |
+| Day 9 | Blind Bidding Game   | Dictionaries & loops   |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -67,7 +67,10 @@ This repository contains all the exercises, mini projects, and practice programs
        └──main.py 
 ├── Day08_Cesar_Cipher
        └──main.py
-       └──art.py   
+       └──art.py
+├── Day09_Blind_Bidding
+       └──main.py
+       └──art.py     
 └── README.md
 ```
 
@@ -82,6 +85,7 @@ Each folder contains the Python code for that day's project.
 * Conditional Statements
 * Loops
 * Functions
+* Dictionaries and Nesting
 * Object-Oriented Programming
 * Working with APIs
 * Automation and Mini Projects
