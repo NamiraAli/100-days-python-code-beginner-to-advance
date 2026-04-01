@@ -41,6 +41,9 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 4 | Rock Paper Scissors  | Random Module          |
 | Day 5 | Password Generator   | Loops                  |
 | Day 6 | Reeborg's World Maze | While Loops            |
+| Day 7 | Hangman Game         | Function , loops       |
+| Day 8 | Cesar Cipher         | function with parameter|
+| Day 9 |                      |                        |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -55,7 +58,16 @@ This repository contains all the exercises, mini projects, and practice programs
 ├── Day03_Treasure_Island
 ├── Day04_Rock_Paper_Scissors
 ├── Day05_Password_Generator
+       └──task_01.py
+       └──task_02.py
 ├── Day06_Reeborg's_World_Maze_Problem
+├── Day07_Hangman_Problem
+       └──hangman_art.py
+       └──hangman_words.py
+       └──main.py 
+├── Day08_Cesar_Cipher
+       └──main.py
+       └──art.py   
 └── README.md
 ```
 
