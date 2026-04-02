@@ -42,8 +42,9 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 5 | Password Generator   | Loops                  |
 | Day 6 | Reeborg's World Maze | While Loops            |
 | Day 7 | Hangman Game         | Function , loops       |
-| Day 8 | Cesar Cipher         | function with parameter|
+| Day 8 | Cesar Cipher         | Function with Parameter|
 | Day 9 | Blind Bidding Game   | Dictionaries & loops   |
+| Day 10| Calculator           | Function Return        |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -70,7 +71,10 @@ This repository contains all the exercises, mini projects, and practice programs
        └──art.py
 ├── Day09_Blind_Bidding
        └──main.py
-       └──art.py     
+       └──art.py
+├── Day10_Simple_Calculator
+       └──main.py
+       └──art.py  
 └── README.md
 ```
 
