@@ -45,6 +45,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 8 | Cesar Cipher         | Function with Parameter|
 | Day 9 | Blind Bidding Game   | Dictionaries & loops   |
 | Day 10| Calculator           | Function Return        |
+| Day 11| Black Jack Game      | Loops , Random Module  |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -73,6 +74,9 @@ This repository contains all the exercises, mini projects, and practice programs
        └──main.py
        └──art.py
 ├── Day10_Simple_Calculator
+       └──main.py
+       └──art.py
+├── Day11_Black_Jack_Game
        └──main.py
        └──art.py  
 └── README.md
