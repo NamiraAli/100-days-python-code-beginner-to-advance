@@ -46,6 +46,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 9 | Blind Bidding Game   | Dictionaries & loops   |
 | Day 10| Calculator           | Function Return        |
 | Day 11| Black Jack Game      | Loops , Random Module  |
+| Day 12| Guess a Number       | GlobalVariable,function|
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -77,6 +78,9 @@ This repository contains all the exercises, mini projects, and practice programs
        └──main.py
        └──art.py
 ├── Day11_Black_Jack_Game
+       └──main.py
+       └──art.py
+├── Day12_Guess_The_Number
        └──main.py
        └──art.py  
 └── README.md
