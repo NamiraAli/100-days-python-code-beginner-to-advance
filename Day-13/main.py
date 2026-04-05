@@ -1,6 +1,7 @@
 import random
 import game_data
-
+import art
+print(art.logo)
 game_over=True
 value1 = random.choice(game_data.data)
 countvalue1 = value1["follower_count"]
