@@ -47,6 +47,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 10| Calculator           | Function Return        |
 | Day 11| Black Jack Game      | Loops , Random Module  |
 | Day 12| Guess a Number       | GlobalVariable,function|
+| Day 13| Higher or Lower Game | Function Return , loops|
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -82,6 +83,10 @@ This repository contains all the exercises, mini projects, and practice programs
        └──art.py
 ├── Day12_Guess_The_Number
        └──main.py
+       └──art.py
+├── Day13_Higher_or_Lower
+       └──main.py
+       └──game_data.py
        └──art.py  
 └── README.md
 ```
