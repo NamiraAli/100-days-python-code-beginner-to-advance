@@ -48,6 +48,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 11| Black Jack Game      | Loops , Random Module  |
 | Day 12| Guess a Number       | GlobalVariable,function|
 | Day 13| Higher or Lower Game | Function Return , loops|
+| Day 14| Coffee Machine       | Function Return , loops|
 *(More days will be added as I progress in the challenge.)*
 
 ---
