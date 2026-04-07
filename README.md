@@ -49,6 +49,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 12| Guess a Number       | GlobalVariable,function|
 | Day 13| Higher or Lower Game | Function Return , loops|
 | Day 14| Coffee Machine       | Function Return , loops|
+| Day 15| Coffee Machine - OOPs| OOPS Concept           |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -88,7 +89,9 @@ This repository contains all the exercises, mini projects, and practice programs
 ├── Day13_Higher_or_Lower
        └──main.py
        └──game_data.py
-       └──art.py  
+       └──art.py
+├── Day14_Coffee_Machine
+       └──main.py        
 └── README.md
 ```
 
