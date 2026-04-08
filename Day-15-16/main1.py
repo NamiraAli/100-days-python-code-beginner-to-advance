@@ -1,0 +1,26 @@
+from menu import Menu
+from coffee_maker import CoffeeMaker
+from money_machine import MoneyMachine
+from menu import MenuItem
+
+
+wantcoffee=True
+while wantcoffee:
+
+    obj_of_menu=Menu()
+    print("*************MENU*************")
+    print(obj_of_menu.get_items())
+    order_name = input("WHAT WOULD YOU LIKE TO ORDER : ")
+    drink=obj_of_menu.find_drink(order_name)
+    # print(drink)
+    obj_of_CoffeeMaker=CoffeeMaker()
+    # print(obj_of_CoffeeMaker)
+    report=obj_of_CoffeeMaker.report()
+    print(obj_of_CoffeeMaker.is_resource_sufficient(drink))
+    obj_of_CoffeeMaker.make_coffee(drink)
+
+    obj_of_menu_item=MenuItem(cost=12,name=drink,water=100,coffee=10,milk=20)
+
+    obj_of_money_machine=MoneyMachine()
+    profit=obj_of_money_machine.report()
+    obj_of_money_machine.make_payment(obj_of_menu_item.cost)
