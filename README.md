@@ -51,6 +51,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 14| Coffee Machine       | Function Return , loops|
 | Day 15| Coffee Machine - OOPs| OOPS Concept           |
 | Day 16| Coffee Machine - OOPs| OOPS Concept           |
+| Day 17| QUIZ Game - OOPs     | OOPS Concept           |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -95,7 +96,12 @@ This repository contains all the exercises, mini projects, and practice programs
        └──main.py
 ├── Day15-16_Coffee_Machine
        └──main1.py
-       └──main2.py         
+       └──main2.py
+├── Day17_Quiz_Game
+       └──main.py
+       └──data.py
+       └──question_model.py
+       └──quiz_brain.py           
 └── README.md
 ```
 
