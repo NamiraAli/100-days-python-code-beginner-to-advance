@@ -52,6 +52,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 15| Coffee Machine - OOPs| OOPS Concept           |
 | Day 16| Coffee Machine - OOPs| OOPS Concept           |
 | Day 17| QUIZ Game - OOPs     | OOPS Concept           |
+| Day 18| Turtle DotPaint      | Turtle Module          |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -101,7 +102,15 @@ This repository contains all the exercises, mini projects, and practice programs
        └──main.py
        └──data.py
        └──question_model.py
-       └──quiz_brain.py           
+       └──quiz_brain.py
+├── Day18_Turtle_Dotpaint
+       └──dotpaint.jp
+       └──main_turtle_dotpaint.py
+       └──turtle1.py
+       └──turtle2.py
+       └──turtle3.py
+       └──turtle4.py
+       └──turtle5.py                  
 └── README.md
 ```
 
