@@ -52,7 +52,8 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 15| Coffee Machine - OOPs| OOPS Concept           |
 | Day 16| Coffee Machine - OOPs| OOPS Concept           |
 | Day 17| QUIZ Game - OOPs     | OOPS Concept           |
-| Day 18| Turtle DotPaint      | Turtle Module          |
+| Day 18| Turtle DotPaint      | Turtle Module:onkey    |
+| Day 19| Turtle Race          | Turtle Module:cor(x,y) |
 *(More days will be added as I progress in the challenge.)*
 
 ---
