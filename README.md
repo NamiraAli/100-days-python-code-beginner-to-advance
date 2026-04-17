@@ -115,7 +115,10 @@ This repository contains all the exercises, mini projects, and practice programs
        └──turtle5.py
 ├── Day19_Turtle_Race
        └──turtle_event_listener.py
-       └──turtle_race.py    
+       └──turtle_race.py
+├── Day20_Snake_Game_P1
+       └──Snake_Game_main.py
+       └──snake.py  
 └── README.md
 ```
 
