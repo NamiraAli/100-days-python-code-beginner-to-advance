@@ -55,6 +55,8 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 18| Turtle DotPaint      | Turtle Module:onkey    |
 | Day 19| Turtle Race          | Turtle Module:cor(x,y) |
 | Day 20| Snaake_Game_P1       | Turtle Module:Screen   |
+| Day 21| Snaake_Game_P2       | Turtle Module:OOPs     |
+| Day 22| Pong_Game            | Turtle Module:OOPs     |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -118,7 +120,19 @@ This repository contains all the exercises, mini projects, and practice programs
        └──turtle_race.py
 ├── Day20_Snake_Game_P1
        └──Snake_Game_main.py
-       └──snake.py  
+       └──snake.py
+├── Day21_Snake_Game_P2
+       └──Snake_Game_main.py
+       └──snake.py
+       └──food.py
+       └──img1
+       └──img2
+├── Day22_Pong_Game
+       └──Pong_Game_main.py
+       └──ball.py
+       └──paddle.py
+       └──scoreboard.py
+       └──img1
 └── README.md
 ```
 
