@@ -56,7 +56,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 19| Turtle Race          | Turtle Module:cor(x,y) |
 | Day 20| Snaake_Game_P1       | Turtle Module:Screen   |
 | Day 21| Snaake_Game_P2       | Turtle Module:OOPs     |
-| Day 22| Pong_Game            | Turtle Module:OOPs     |
+| Day 22| Pong_Game            | OOPs - Inheritance     |
 *(More days will be added as I progress in the challenge.)*
 
 ---
