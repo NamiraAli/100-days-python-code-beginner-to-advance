@@ -1,0 +1,23 @@
+for crossing the road game
+turtle:
+step 1 create a turtle on the bptton of the screen $$
+step 2 turtle can move only in forward direction   $$
+step 3 when turtle touches the finish line or end of screen reset to start  $$
+step 4 for every reset speed of turtle increases $$
+
+cars:
+step 1 create a car class $$
+step 2 create objects of that class $$
+step 3 the objects are placed in constant distance $$
+step 4 each car object will move in a random speed and forward by constant value $$
+step 5 after the car touches the last line horizontally then the car will reset to start again with another random value $$
+
+
+when hit:
+step 1 : when turtle hit any car show game over 
+step 2 show final score
+
+when not hit :
+step 1 : for every compleation of a lap the speed of the car incraeses $$
+step 2 : increase the level number $$
+step 3 : add a score to current score $$
