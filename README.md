@@ -58,7 +58,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 21| Snaake_Game_P2       | Turtle Module:OOPs     |
 | Day 22| Pong_Game            | OOPs - Inheritance     |
 | Day 23| Turtle_Crossroad_Game| OOPs - Inheritance     |
-
+| Day 24| File_Operation       | Python-Files           |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -142,7 +142,11 @@ This repository contains all the exercises, mini projects, and practice programs
        └──scoreboard.py
        └──steps.txt
        └──img1
-└── README.md
+├── Day24_File_Operation
+       └──File_op_main.py
+       └──invited_names.txt
+       └──starting_letter.txt
+└── README.
 ```
 
 Each folder contains the Python code for that day's project.
