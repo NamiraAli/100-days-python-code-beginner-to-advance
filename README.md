@@ -54,11 +54,12 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 17| QUIZ Game - OOPs     | OOPS Concept           |
 | Day 18| Turtle DotPaint      | Turtle Module:onkey    |
 | Day 19| Turtle Race          | Turtle Module:cor(x,y) |
-| Day 20| Snaake_Game_P1       | Turtle Module:Screen   |
-| Day 21| Snaake_Game_P2       | Turtle Module:OOPs     |
-| Day 22| Pong_Game            | OOPs - Inheritance     |
-| Day 23| Turtle_Crossroad_Game| OOPs - Inheritance     |
-| Day 24| File_Operation       | Python-Files           |
+| Day 20| Snaake Game_P1       | Turtle Module:Screen   |
+| Day 21| Snaake Game_P2       | Turtle Module:OOPs     |
+| Day 22| Pong Game            | OOPs - Inheritance     |
+| Day 23| Turtle Crossroad Game| OOPs - Inheritance     |
+| Day 24| File Operation       | Python-Files           |
+| Day 25| Guess The States     | Python- Pandas,CSV     |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -146,6 +147,10 @@ This repository contains all the exercises, mini projects, and practice programs
        └──File_op_main.py
        └──invited_names.txt
        └──starting_letter.txt
+├── Day25_Guess_The_States
+       └──Guess_The_State_main.py
+       └──India-state.gif
+       └──states_data.csv
 └── README.
 ```
 
