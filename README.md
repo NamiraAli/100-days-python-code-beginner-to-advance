@@ -60,6 +60,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 23| Turtle Crossroad Game| OOPs - Inheritance     |
 | Day 24| File Operation       | Python-Files           |
 | Day 25| Guess The States     | Python- Pandas,CSV     |
+| Day 26| Nato Phonetic Word   | List-Dict Comprehension|
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -151,6 +152,13 @@ This repository contains all the exercises, mini projects, and practice programs
        └──Guess_The_State_main.py
        └──India-state.gif
        └──states_data.csv
+├── Day25_Guess_The_States
+       └──Guess_The_State_main.py
+       └──India-state.gif
+       └──states_data.csv
+├── Day26_Nato_Phonetic_Word
+       └──main.py
+       └──nato_phonetic_word.csv
 └── README.
 ```
 
