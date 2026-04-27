@@ -35,7 +35,7 @@ This repository contains all the exercises, mini projects, and practice programs
 
 | Day   | Project              | Topic                  |
 | ----- | -------------------- | ---------------------- |
-| Day 1 | Band Name Generator  | Python Basics          || Day 26| Nato Phonetic Word   | List-Dict Comprehension|
+| Day 1 | Band Name Generator  | Python Basics          |
 | Day 2 | Tip Calculator       | Variables              |
 | Day 3 | Treasure Island Game | Conditional Statements |
 | Day 4 | Rock Paper Scissors  | Random Module          |
@@ -61,6 +61,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 24| File Operation       | Python-Files           |
 | Day 25| Guess The States     | Python- Pandas,CSV     |
 | Day 26| Nato Phonetic Word   | List-Dict Comprehension|
+| Day 27| Miles To KM          | Tkinter - GUI          |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -159,6 +160,11 @@ This repository contains all the exercises, mini projects, and practice programs
 ├── Day26_Nato_Phonetic_Word
        └──main.py
        └──nato_phonetic_word.csv
+├── Day27_Miles_To_Km
+       └──basic_main.py
+       └──miles_to_km_main.py 
+       └──practice.py
+       └──tkinter_basic.py       
 └── README.
 ```
 
