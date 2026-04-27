@@ -35,7 +35,7 @@ This repository contains all the exercises, mini projects, and practice programs
 
 | Day   | Project              | Topic                  |
 | ----- | -------------------- | ---------------------- |
-| Day 1 | Band Name Generator  | Python Basics          |
+| Day 1 | Band Name Generator  | Python Basics          || Day 26| Nato Phonetic Word   | List-Dict Comprehension|
 | Day 2 | Tip Calculator       | Variables              |
 | Day 3 | Treasure Island Game | Conditional Statements |
 | Day 4 | Rock Paper Scissors  | Random Module          |
