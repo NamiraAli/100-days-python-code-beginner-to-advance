@@ -62,6 +62,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 25| Guess The States     | Python- Pandas,CSV     |
 | Day 26| Nato Phonetic Word   | List-Dict Comprehension|
 | Day 27| Miles To KM          | Tkinter - GUI          |
+| Day 28| Pomodoro Counter     | Tkinter - GUI , Math   |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -164,7 +165,11 @@ This repository contains all the exercises, mini projects, and practice programs
        └──basic_main.py
        └──miles_to_km_main.py 
        └──practice.py
-       └──tkinter_basic.py       
+       └──tkinter_basic.py
+├── Day28_Pomodoro_Counter
+       └──Pomodoro_main.py
+       └──tomato.png 
+       └──img1  
 └── README.
 ```
 
