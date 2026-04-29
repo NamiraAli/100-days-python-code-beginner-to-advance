@@ -63,6 +63,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 26| Nato Phonetic Word   | List-Dict Comprehension|
 | Day 27| Miles To KM          | Tkinter - GUI          |
 | Day 28| Pomodoro Counter     | Tkinter - GUI , Math   |
+| Day 29| Password Manager     | Tkinter,File,Pyperclip |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -169,7 +170,11 @@ This repository contains all the exercises, mini projects, and practice programs
 ├── Day28_Pomodoro_Counter
        └──Pomodoro_main.py
        └──tomato.png 
-       └──img1  
+       └──img1
+├── Day29_Password_Manager
+       └──Password_manager_main.py
+       └──Password_manager .txt
+       └──logo.png
 └── README.
 ```
 
