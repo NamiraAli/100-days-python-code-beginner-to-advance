@@ -65,6 +65,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 28| Pomodoro Counter     | Tkinter - GUI , Math   |
 | Day 29| Password Manager-1   | Tkinter,File,Pyperclip |
 | Day 30| Password Manager-2   | JSON, Error management |
+| Day 31| Flash Cards          | CSV , Pandas , tkinter |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -176,10 +177,18 @@ This repository contains all the exercises, mini projects, and practice programs
        └──Password_manager_main.py
        └──Password_manager.txt
        └──logo.png
-├── Day29_Password_Manager-2
+├── Day30_Password_Manager-2
        └──Password_manager_main.py
        └──Password_manager.json
        └──practice.py
+├── Day31_Flash_Cards
+       └──FlashCard_main.py
+       └──Arabic_English.csv
+       └──words_learned.csv
+       └──card_back.png
+       └──card_front.png
+       └──right.png
+       └──wrong.png
 └── README.
 ```
 
