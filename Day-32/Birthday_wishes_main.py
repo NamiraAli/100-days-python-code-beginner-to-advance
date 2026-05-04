@@ -19,8 +19,8 @@ if now.month == birthday_data["month"] and now.day == birthday_data["day"]:
         inletter=file.read()
     change_name=inletter.replace("[NAME]",birthday_data["name"])
 
-    my_email = "testmailpython1290@gmail.com"
-    password = "vwhkggwpmkkfkywb"
+    my_email = "testmailpython@gmail.com"
+    password = "pass123"
     to_email = birthday_data["email"]
 
     with smtplib.SMTP("smtp.gmail.com") as connection:
