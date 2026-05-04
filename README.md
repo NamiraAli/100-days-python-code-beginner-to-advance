@@ -66,6 +66,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 29| Password Manager-1   | Tkinter,File,Pyperclip |
 | Day 30| Password Manager-2   | JSON, Error management |
 | Day 31| Flash Cards          | CSV , Pandas , tkinter |
+| Day 32|Automated Birthdaywish| SMTP , Fork , Cloud    |
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -189,6 +190,13 @@ This repository contains all the exercises, mini projects, and practice programs
        └──card_front.png
        └──right.png
        └──wrong.png
+├── Day32_Automated_Birthday_wisher
+       └──Birthday_wishes_main.py
+       └──birthdays.csv
+       └──letter_templates
+              └──letter_1.txt
+              └──letter_2.txt
+              └──letter_3.txt
 └── README.
 ```
 
