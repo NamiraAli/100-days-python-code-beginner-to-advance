@@ -67,6 +67,8 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 30| Password Manager-2   | JSON, Error management |
 | Day 31| Flash Cards          | CSV , Pandas , tkinter |
 | Day 32|Automated Birthdaywish| SMTP , Fork , Cloud    |
+| Day 33|ISS Location Finder   | API , SMTP , requests  |
+
 *(More days will be added as I progress in the challenge.)*
 
 ---
@@ -197,6 +199,13 @@ This repository contains all the exercises, mini projects, and practice programs
               └──letter_1.txt
               └──letter_2.txt
               └──letter_3.txt
+├── Day33_ISS_Location_Overhead
+       └──Iss_overhead_main.py
+       └──link_API.txt
+       └──Kanye_quotes
+              └──main.py
+              └──kanye.png
+              └──background.png
 └── README.
 ```
 
