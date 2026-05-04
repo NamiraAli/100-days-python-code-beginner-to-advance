@@ -202,6 +202,7 @@ This repository contains all the exercises, mini projects, and practice programs
 ├── Day33_ISS_Location_Overhead
        └──Iss_overhead_main.py
        └──link_API.txt
+       └──practice.py
        └──Kanye_quotes
               └──main.py
               └──kanye.png
