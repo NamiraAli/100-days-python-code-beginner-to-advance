@@ -68,6 +68,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 31| Flash Cards          | CSV , Pandas , tkinter |
 | Day 32|Automated Birthdaywish| SMTP , Fork , Cloud    |
 | Day 33|ISS Location Finder   | API , SMTP , requests  |
+| Day 34|QUIZ                  | API , SMTP , html      |
 
 *(More days will be added as I progress in the challenge.)*
 
@@ -207,6 +208,14 @@ This repository contains all the exercises, mini projects, and practice programs
               └──main.py
               └──kanye.png
               └──background.png
+├── Day34_Quiz
+       └──Quiz_main.py
+       └──data.py
+       └──question_model.py
+       └──quiz_brain.py
+       └──ui.py
+       └──true.png
+       └──false.png
 └── README.
 ```
 
