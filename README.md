@@ -69,6 +69,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 32|Automated Birthdaywish| SMTP , Fork , Cloud    |
 | Day 33|ISS Location Finder   | API , SMTP , requests  |
 | Day 34|QUIZ                  | API , SMTP , html      |
+| Day 35|Open weather sms alert| API , twilio           |
 
 *(More days will be added as I progress in the challenge.)*
 
@@ -216,6 +217,8 @@ This repository contains all the exercises, mini projects, and practice programs
        └──ui.py
        └──true.png
        └──false.png
+├── Day35_Open_Weather_SMS_Alert
+       └──main.py
 └── README.
 ```
 
