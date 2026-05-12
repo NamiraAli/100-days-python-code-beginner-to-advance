@@ -70,6 +70,7 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 33|ISS Location Finder   | API , SMTP , requests  |
 | Day 34|QUIZ                  | API , SMTP , html      |
 | Day 35|Open weather sms alert| API , twilio           |
+| Day 36|Stocks and News       | API , twilio ,listC    |
 
 *(More days will be added as I progress in the challenge.)*
 
@@ -218,6 +219,8 @@ This repository contains all the exercises, mini projects, and practice programs
        └──true.png
        └──false.png
 ├── Day35_Open_Weather_SMS_Alert
+       └──main.py
+├── Day36_Stock_&_News_SMS
        └──main.py
 └── README.
 ```
