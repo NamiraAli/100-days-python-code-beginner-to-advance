@@ -71,6 +71,8 @@ This repository contains all the exercises, mini projects, and practice programs
 | Day 34|QUIZ                  | API , SMTP , html      |
 | Day 35|Open weather sms alert| API , twilio           |
 | Day 36|Stocks and News       | API , twilio ,listC    |
+| Day 37|Namaz Tracker         | HTTP,pixela,put,delete |
+
 
 *(More days will be added as I progress in the challenge.)*
 
@@ -222,6 +224,8 @@ This repository contains all the exercises, mini projects, and practice programs
        └──main.py
 ├── Day36_Stock_&_News_SMS
        └──main.py
+├── Day37_Namaz_Tracker
+       └──Namaz_Tracker_main.py
 └── README.
 ```
 
