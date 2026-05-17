@@ -50,17 +50,17 @@ today_time=datetime.now().strftime("%I:%M %p")
 print(today_date,today_time)
 
 for exercise in result["exercises"]:
-    workout_input={
+    workout={
         "workout":{
-            "Date":today_date,
-            "Time":today_time,
-            "Exercise":exercise['name'].title(),
-            "Duration":exercise['duration_min'],
-            "Calories":exercise['nf_calories']
+            "date":today_date,
+            "time":today_time,
+            "exercise":exercise['name'].title(),
+            "duration":exercise['duration_min'],
+            "calories":exercise['nf_calories']
     }
     }
 ##post result in sheet
 
-post_result_in_sheet=requests.post(url=sheety_post_url,json=workout_input,headers=authentication)
+post_result_in_sheet=requests.post(url=sheety_post_url,json=workout,headers=authentication)
 post_result_in_sheet.raise_for_status()
 print(post_result_in_sheet.text)
